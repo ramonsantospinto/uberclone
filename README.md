@@ -35,7 +35,7 @@ lib/
 - **Presentation (Apresentação)**: telas, componentes visuais e gerenciamento de estado via `Bloc`.
 - **Core / DI**: injeção de dependências centralizada utilizando `GetIt` (`injection.dart`), garantindo o desacoplamento na instanciação de serviços.
 
-Cada feature é isolada e independente — é possível abrir a pasta de `map`, por exemplo, e compreender a funcionalidade por completo sem depender do restante do projeto.
+Cada feature é isolada e independente é possível abrir a pasta de `map`, por exemplo, e compreender a funcionalidade por completo sem depender do restante do projeto.
 
 ## 🧠 Decisões Técnicas
 
