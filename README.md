@@ -116,7 +116,7 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais detalhes.
 
 ## 📬 Contato
 
-**Ramon dos Santos Pinto**.
+**Ramon dos Santos Pinto**
 
 - GitHub: [github.com/ramonsantospinto](https://github.com/ramonsantospinto)
 - LinkedIn: *https://www.linkedin.com/in/ramon-santos-1464a6108/*
