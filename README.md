@@ -8,7 +8,7 @@
 
 Aplicativo de mobilidade urbana (tipo Uber) desenvolvido em Flutter, construído seguindo os mais altos padrões de arquitetura de software, boas práticas de mercado e integração com os serviços de mapas e geolocalização do Google.
 
-Este projeto foi desenvolvido como peça de portfólio técnico, com o objetivo de demonstrar, na prática, como estruturo aplicações Flutter que consomem APIs externas de geolocalização e mapas em tempo real, seguindo Clean Architecture, injeção de dependência e separação de responsabilidades — os mesmos pilares que sustentam aplicações em produção.
+Este projeto foi desenvolvido como peça de portfólio técnico, com o objetivo de demonstrar, na prática, como estruturo aplicações Flutter que consomem APIs externas de geolocalização e mapas em tempo real, seguindo Clean Architecture, injeção de dependência e separação de responsabilidades os mesmos pilares que sustentam aplicações em produção.
 
 ## 📱 Preview
 
@@ -106,7 +106,7 @@ flutter test
 
 ## 💬 Sobre o Projeto
 
-Este repositório foi construído com foco em qualidade de código e decisões arquiteturais consistentes — não como um tutorial ou exercício de estudo, mas como demonstração prática de como estruturo aplicações Flutter que integram APIs de geolocalização e mapas no dia a dia profissional.
+Este repositório foi construído com foco em qualidade de código e decisões arquiteturais consistentes, não como um tutorial ou exercício de estudo, mas como demonstração prática de como estruturo aplicações Flutter que integram APIs de geolocalização e mapas no dia a dia profissional.
 
 Fico à disposição para discutir decisões técnicas, trade-offs de arquitetura ou qualquer ponto do código.
 
@@ -119,5 +119,6 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais detalhes.
 **Ramon Santos Pinto**
 
 - GitHub: [github.com/ramonsantospinto](https://github.com/ramonsantospinto)
-- LinkedIn: *adicione seu link aqui*
-- E-mail: *adicione seu e-mail aqui*
+- LinkedIn: *https://www.linkedin.com/in/ramon-santos-1464a6108/*
+- Portfólio: *https://ramondeveloper.web.app/*
+- E-mail: *ramonsantospinto@gmail.com*
