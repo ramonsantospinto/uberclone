@@ -12,7 +12,7 @@ final sl = GetIt.instance;
 void setupInjector() {
   sl.registerLazySingleton<Dio>(() => Dio());
 
-  const googleApiKey = 'AIzaSyClZUGdAP7FgxOOro-tvaGXkSUaSZR_FZc';
+  const googleApiKey = 'Key aqui';
 
   sl.registerLazySingleton<ILocationService>(() => LocationService());
 

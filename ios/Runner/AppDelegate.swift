@@ -10,7 +10,7 @@ import GoogleMaps
   ) -> Bool {
     
     
-    GMSServices.provideAPIKey("AIzaSyClZUGdAP7FgxOOro-tvaGXkSUaSZR_FZc")
+    GMSServices.provideAPIKey("Key aqui")
     
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
